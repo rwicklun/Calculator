@@ -1,5 +1,6 @@
 # Calculator
 Basic calculator made from HTML5/CSS/Javascript
+live view link: https://rwicklun.github.io/Calculator/
 
 # Expected behavior
 
